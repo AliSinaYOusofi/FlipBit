@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   title: "FlipBit — A task is a bit.",
   description:
     "FlipBit is an iOS to-do app built on one idea: a task is a bit. It is 0 or 1. A day is a register you can read at a glance. Local-first, no account, no sync.",
-  icons: { icon: "/icon.png", apple: "/icon.png" },
+  // Icons come from the app/icon.png and app/apple-icon.png file conventions.
   openGraph: {
     type: "website",
     title: "FlipBit — A task is a bit.",
